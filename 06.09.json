@@ -6,6 +6,7 @@
 				{
 					"name": "Kinematics",
 					"complexity": "average",
+					"New": "new segment",
 					"interest": "great",
 					"bool": true
 
